@@ -24,4 +24,4 @@ Open `index.html` in any modern browser (Chrome, Firefox, Edge, Safari). No setu
 
 ## Live Demo
 
-[View on GitHub Pages](https://muhammadzahir.github.io/CodingCamp-18May26-MuchammadZahir/)
+[View on GitHub Pages](https://zashyro.github.io/revou-coding-camp-html-css/)
